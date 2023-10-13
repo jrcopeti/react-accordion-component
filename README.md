@@ -1,71 +1,28 @@
-# Getting Started with Create React App
+# 🌍 Accordion component for React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ The component is designed to display frequently asked questions (FAQs) and their answers in an interactive manner. Users can click on any FAQ to expand or collapse its content.
 
-## Available Scripts
+![Screenshot](public/screenshot1.png)
+![Screenshot](public/screenshot2.png)
 
-In the project directory, you can run:
+## 📝 Features:
 
-### `npm start`
+- **Add Items**: Use the form to quickly add new items to your packing list.
+- **Check off Packed Items**: Simply click on an item to mark it as packed.
+- **Delete Items**: Remove items you no longer need in your list with ease.
+- **Sort Items**: Choose to display items sorted by added order, description or packed status.
+- **Clear All**: With one button, clear your entire list after confirming.
+- **Statistics**: At a glance, view the total number of items, how many are packed, and your packing percentage.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+-**Interactive**: Easily expand or collapse content.
+-**Customizable**: Feed in any array of data to display.
+-**Styled**: Simple and clean design with clear UX indications.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 📘 React Concepts Learnt:
 
-### `npm test`
+-**Props**: Efficient data transfer between components.
+-**State & useState**: Dynamically managing data within a component.
+-**Functional Updates**: Safely updating state based on the previous state.
+-**Event Handlers**: Enhancing component interactivity.
+-**Children Prop**: Flexibly passing JSX elements as content to components.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# react-accordion-component

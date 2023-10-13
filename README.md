@@ -2,7 +2,6 @@
 
  The component is designed to display frequently asked questions (FAQs) and their answers in an interactive manner. Users can click on any FAQ to expand or collapse its content.
 
-![Screenshot](public/screenshot1.png)
 ![Screenshot](public/screenshot2.png)
 
 ## 📝 Features:
@@ -25,4 +24,3 @@
 -**Functional Updates**: Safely updating state based on the previous state.
 -**Event Handlers**: Enhancing component interactivity.
 -**Children Prop**: Flexibly passing JSX elements as content to components.
-
